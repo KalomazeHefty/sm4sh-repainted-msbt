@@ -1,2 +1,2 @@
 # sm4sh-repainted-msbt
-Sm4sh Repainted MSBT Garbo
+Sm4sh Repainted Files. Please do not share git.
